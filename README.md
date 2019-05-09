@@ -1,4 +1,4 @@
-# Speaking - List over presentations
+# Community
 
 
 ## JSheroes 2017
