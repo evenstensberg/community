@@ -10,3 +10,7 @@
 
 [Scalable Command Line Interfaces](https://github.com/evenstensberg/community/blob/master/vue-oslo.pdf)
 
+
+## Create React App & webpack
+
+[Create React App & webpack](https://github.com/evenstensberg/community/blob/master/cra.pdf)
